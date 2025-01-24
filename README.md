@@ -11,7 +11,7 @@
 ```yaml
 # 要抓取的 issues 配置
 issues:
-  repo: Doradx/hexo-friendly-links # 仓库持有者/仓库名
+  repo: hw2001aq/hexo-friendly-links # 仓库持有者/仓库名
   groups: [
     {
       name: 'friendly_links_active', # 对应生成的json文件名称
@@ -43,7 +43,7 @@ issues:
 
 
 ## 申请友链
-前往GitHub提交[issues](https://github.com/Doradx/hexo-friendly-links/issues)即可, [直达链接](https://github.com/Doradx/hexo-friendly-links/issues/new?assignees=&labels=&template=template_friend_new.yaml)
+前往GitHub提交[issues](https://github.com/hw2001aq/hexo-friendly-links/issues)即可, [直达链接](https://github.com/hw2001aq/hexo-friendly-links/issues/new?assignees=&labels=&template=template_friend_new.yaml)
 需要准备的内容:
 ```json
 {
